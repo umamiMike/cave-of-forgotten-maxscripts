@@ -1,0 +1,1 @@
+for o in objects where o.gbufferchannel != 0 do (print (o.name + ": OB_id:   " + (o.gbufferchannel as string)))

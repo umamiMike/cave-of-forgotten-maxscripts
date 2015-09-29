@@ -1,0 +1,1 @@
+amax (getSegLengths $ 1)

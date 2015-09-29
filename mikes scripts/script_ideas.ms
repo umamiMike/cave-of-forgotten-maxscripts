@@ -1,0 +1,2 @@
+-- a scirpt that allows you select multiple images and 
+--easily switch between them, making them both the environmental, and viewport background

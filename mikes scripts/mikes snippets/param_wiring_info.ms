@@ -1,0 +1,1 @@
+paramWire.connect mycam..nearrange6 mymap.coords[#V_Offset] "Percent+.5"

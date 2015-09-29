@@ -1,0 +1,1 @@
+paramWire.connect $posslider.value $.position.controller[#Noise_Position].frequency "text"

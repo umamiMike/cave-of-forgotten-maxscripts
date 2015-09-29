@@ -1,0 +1,9 @@
+myXform = Xform()
+myxform.name = "PimpTastics"
+myxform.gizmo.rotation.controller = Noise_Rotation()
+mnt = myxform.gizmo.rotation.controller
+mnt.seed = random 0 5000
+mnt.frequency = .015
+mnt.roughness = 0.031
+str = 10.0
+mnt.Noise_Strength = [str,str,str]

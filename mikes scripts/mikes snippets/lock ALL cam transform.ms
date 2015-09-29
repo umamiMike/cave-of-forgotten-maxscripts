@@ -1,0 +1,1 @@
+for i = 1 to cameras.count do (setTransformLockFlags cameras[i] #all)

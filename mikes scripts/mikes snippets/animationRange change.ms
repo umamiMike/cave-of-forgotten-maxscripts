@@ -1,0 +1,1 @@
+animationRange = (interval 251f 369f)

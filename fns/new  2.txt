@@ -1,0 +1,10 @@
+instructions for tearing cloth
+
+
+varex color map  
+
+cloth mod
+select area of verts and preserve for what you dont want moving
+
+make another group of verts and get stack selection for tear verts
+

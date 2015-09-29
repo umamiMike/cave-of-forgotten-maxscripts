@@ -1,0 +1,4 @@
+--animated view box
+-- create the frustrum thing with the script
+--track each point make a spline for it
+--connectpoints from the first and last frame of the animation to make a box
